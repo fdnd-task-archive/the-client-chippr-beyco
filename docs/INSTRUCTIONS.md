@@ -1,4 +1,4 @@
-# {Naam}
+# Improve Beyco contact page
 
 De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
 Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
@@ -6,13 +6,12 @@ Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
-Leertaak: {Beschrijving van de leertaak}. Deze leertaak hoort bij {sprint # "titel van de sprint}. Dit is een {niveau van de opdracht} die je {individueel, in team} uitvoert voor {opdrachtgever}
+Leertaak: Ontwikkel een contactpagina voor Beyco. Deze leertaak hoort bij sprint **The Client**. Dit is een **autonomous** die je individueel uitvoert voor HP2.
 
 ## Briefing
-*In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
+HP2 is een bedrijf dat bestaat uit young professionals die in samenwerking met studenten toffe projecten realiseert, waaronder het project Beyco: Beyond Coffee. Beyco is een handelsplatform voor koffie over de hele wereld. De contactpagina van Beyco is op dit moment erg simpel. Wij willen graag dat het voor gebruikers gemakkelijker wordt om contact op te nemen met Beyco. Het is de bedoeling dat de pagina in de huisstijl van Beyco wordt gerealiseerd en dat de pagina responsive is.
 
-{Beschrijf de opdrachtgever}
-{Beschrijf de opdracht}
+Ontwikkel een prototype waarin je de nieuwe contact pagina laat zien. 
 
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*

@@ -1,19 +1,18 @@
 # Improve Beyco contact page
+Ontwikkel een contactpagina voor Beyco
 
 ## Context
-Leertaak: Ontwikkel een contactpagina voor Beyco. Deze leertaak hoort bij sprint **The Client**. Dit is een **autonomous** die je individueel uitvoert voor HP2.
-
-Chippr is een bedrijf dat bestaat uit young professionals die in samenwerking met studenten toffe projecten realiseert, waaronder het project Beyco: Beyond Coffee. Beyco is een handelsplatform voor koffie over de hele wereld.
+Deze leertaak hoort bij sprint **The Client**. Dit is een **autonomous** leertaak die je individueel uitvoert voor Chippr.
 
 ## Briefing
+Chippr is een bedrijf dat bestaat uit young professionals die in samenwerking met studenten toffe projecten realiseert, waaronder het project Beyco: Beyond Coffee. Beyco is een handelsplatform voor koffie over de hele wereld.
+
  De contactpagina van Beyco is op dit moment erg simpel. Wij willen graag dat het voor gebruikers gemakkelijker wordt om contact op te nemen met Beyco. Het is de bedoeling dat de pagina in de huisstijl van Beyco wordt gerealiseerd en dat de pagina responsive is.
 
 Ontwikkel een prototype waarin je de nieuwe contact pagina laat zien. 
 
 ## Doel van deze opdracht
-*Wat leer je in deze taak.*
-
-{beschrijf de taak in actieve taal: Je leert hoe...}
+Ontwerp en maak een opdracht voor een bedrijf en presenteer het resultaat
 
 ## Werkwijze
 *De werkwijze volgt de fasering van de Development Life Cycle.*

@@ -15,10 +15,6 @@ Ontwikkel een prototype waarin je de nieuwe contact pagina laat zien.
 Ontwerp en maak een opdracht voor een bedrijf en presenteer het resultaat
 
 ## Werkwijze
-*De werkwijze volgt de fasering van de Development Life Cycle.*
-
-{geef de opdracht, in meer of mindere mate van sturing afhankelijk van het niveau van de taak}
-
 Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
 ### Analyseren

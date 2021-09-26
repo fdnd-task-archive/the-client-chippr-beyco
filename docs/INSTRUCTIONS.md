@@ -1,5 +1,5 @@
 # Improve Beyco contact page
-Herontwerp en verbeter de contactpagina voor Beyco
+Herontwerp en verbeter de contactpagina voor Beyco.
 
 ## Context
 Deze leertaak hoort bij sprint **The Client**. Dit is een **autonomous** leertaak die je individueel uitvoert voor Chippr.

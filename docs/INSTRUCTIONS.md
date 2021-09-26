@@ -9,7 +9,7 @@ Chippr is een bedrijf dat bestaat uit young professionals die in samenwerking me
 
  De contactpagina van Beyco is op dit moment erg simpel. Wij willen graag dat het voor gebruikers gemakkelijker wordt om contact op te nemen met Beyco. Het is de bedoeling dat de pagina in de huisstijl van Beyco wordt gerealiseerd en dat de pagina responsive is.
 
-Ontwikkel een prototype waarin je de nieuwe contact pagina laat zien. 
+Ontwikkel een mockup waarin je de nieuwe contact pagina laat zien. 
 
 ## Doel van deze opdracht
 Ontwerp en maak een opdracht voor een bedrijf en presenteer het resultaat
